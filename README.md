@@ -1,13 +1,11 @@
 # DS_Dominos---Predictive-Purchase-Order-System
-Food Service Industry
+DOMAIN : Food Service Industry
+
 Project Overview
 This project aims to develop a predictive purchase order system for Domino's Pizza by analyzing historical sales and ingredient data. The goal is to forecast future pizza sales, optimize inventory management, and minimize waste while ensuring ingredient availability.
 
 Skills Acquired
 Data cleaning and preprocessing Exploratory Data Analysis (EDA) Time series forecasting Predictive modeling Business decision making Real-world application of data science
-
-Domain
-Food Service Industry
 
 Problem Statement
 Domino's Pizza aims to optimize the ordering process for ingredients by accurately predicting future sales. This project leverages historical sales data and ingredient information to create a predictive model that generates efficient purchase orders, thereby minimizing waste and preventing stockouts.
